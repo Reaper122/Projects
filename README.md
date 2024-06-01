@@ -1,3 +1,5 @@
+# Video Transciber
+
 For a video transcriber project, the components should be arranged in the following order to ensure a smooth workflow from video input to text transcription:
 
 1. **Decode-Audio**
