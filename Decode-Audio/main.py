@@ -10,7 +10,7 @@ def load_audio(file_path):
     audio = AudioSegment.from_file(file_path)
     return audio
 
-audio = load_audio('audio.mp3')
+audio = load_audio(r'audio.mp3')
 
 
 # Convert the loaded audio into raw audio data
